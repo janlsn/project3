@@ -1,0 +1,48 @@
+.box1 {
+  border: solid black 2px;
+  height: 700px;
+  width: 100%;
+  margin: 0 0 0 0;
+}
+.box2 {
+  border: solid black 1px;
+  height: 500px;
+  margin: 10% 0 0 0px;
+  width: 51%;
+  float: left;
+}
+.box3 {
+  border: solid black 1px;
+  height: 500px;
+  margin: 10% 0 0 0px;
+  width: 24%;
+  float: left;
+}
+.box4 {
+  border: solid black 1px;
+  height: 500px;
+  margin: 10% 0 0 0px;
+  width: 24%;
+  float: left;
+}
+.box5 {
+  border: solid black 1px;
+  width: 97%;
+  float: left;
+  height: 480px;
+  margin: 1% 0 0 1%;
+}
+.box6 {
+  border: solid black 1px;
+  width: 96%;
+  float: left;
+  height: 480px;
+  margin: 2% 0 0 2%;
+}
+.box7 {
+  border: solid black 1px;
+  width: 96%;
+  float: left;
+  height: 480px;
+  margin: 2% 0 0 2%;
+}
